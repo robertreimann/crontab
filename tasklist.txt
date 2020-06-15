@@ -1,0 +1,2 @@
+* * * * * C:\Users\Robert\IdeaProjects\Cron\res2.txt
+31 20 15 6 1 C:\Users\Robert\IdeaProjects\Cron\res2.txt
