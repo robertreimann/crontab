@@ -7,7 +7,7 @@ public class Task {
     private String hour;
     private String day;
     private String month;
-    private String weekday;
+    private String weekday; //not actually needed as LocalDateTime has a function for it.
     private String path;
     private boolean run = false;
 
